@@ -1,0 +1,30 @@
+{
+  "all": {
+    "OmniInference.generate_batch": [
+      481.3611841201782
+    ],
+    "OmniMoTModel.decode": [
+      18.069599151611328
+    ],
+    "OmniMoTModel.generate_samples_from_batch": [
+      458.6512539386749
+    ],
+    "[warmup] OmniInference.generate_batch": [
+      482.29462003707886
+    ],
+    "[warmup] OmniMoTModel.decode": [
+      18.080538511276245
+    ],
+    "[warmup] OmniMoTModel.generate_samples_from_batch": [
+      464.21366477012634
+    ]
+  },
+  "average": {
+    "OmniInference.generate_batch": 481.3611841201782,
+    "OmniMoTModel.decode": 18.069599151611328,
+    "OmniMoTModel.generate_samples_from_batch": 458.6512539386749,
+    "[warmup] OmniInference.generate_batch": 482.29462003707886,
+    "[warmup] OmniMoTModel.decode": 18.080538511276245,
+    "[warmup] OmniMoTModel.generate_samples_from_batch": 464.21366477012634
+  }
+}

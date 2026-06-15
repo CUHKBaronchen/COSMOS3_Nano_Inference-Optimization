@@ -1,0 +1,5 @@
+{
+  "model_mode": "text2video",
+  "name": "t2v",
+  "prompt": "A locked-off realistic tabletop studio shot containing exactly three objects: a yellow ceramic mug on the left, a green apple in the center, and a closed blue hardcover book on the right. A single white robotic gripper enters from above, picks up only the green apple, moves it to the right, and places it on top of the blue book. The yellow mug never moves. Preserve the object count, colors, left-center-right relationships, and rigid object shapes throughout. No cuts, sharp fine detail, neutral soft lighting, 1280x720, 24 fps, 5 seconds."
+}

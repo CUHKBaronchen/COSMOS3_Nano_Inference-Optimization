@@ -1,0 +1,5 @@
+{
+  "model_mode": "text2video",
+  "name": "t2v",
+  "prompt": "A photorealistic bright red rally car drives rapidly from left to right along a wet mountain road during light rain. The camera performs a smooth side-tracking shot that keeps the car centered while guardrails, pine trees, and distant mountains show strong natural parallax. Water sprays continuously from all four tires, the wheels rotate quickly, and reflections move across the red bodywork. One car only, no cuts, no sudden camera jumps, no frozen motion, realistic motorsport cinematography, 1280x720, 24 fps, 5 seconds."
+}

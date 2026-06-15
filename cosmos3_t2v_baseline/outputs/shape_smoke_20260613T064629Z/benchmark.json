@@ -1,0 +1,18 @@
+{
+  "all": {
+    "OmniInference.generate_batch": [
+      55.91529083251953
+    ],
+    "OmniMoTModel.decode": [
+      18.18649196624756
+    ],
+    "OmniMoTModel.generate_samples_from_batch": [
+      34.16552758216858
+    ]
+  },
+  "average": {
+    "OmniInference.generate_batch": 55.91529083251953,
+    "OmniMoTModel.decode": 18.18649196624756,
+    "OmniMoTModel.generate_samples_from_batch": 34.16552758216858
+  }
+}

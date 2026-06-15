@@ -1,0 +1,5 @@
+{
+  "model_mode": "text2video",
+  "name": "t2v",
+  "prompt": "A realistic cinematic wide shot inside a clean aircraft maintenance hangar. Exactly two adult mechanics stand facing each other. The mechanic on the left wears a red safety helmet and yellow coveralls and holds a small silver wrench in the right hand. The mechanic on the right wears a blue safety helmet and dark blue coveralls. From 0 to 3 seconds, the left mechanic clearly hands the wrench to the right mechanic; from 3 to 5 seconds, the right mechanic holds the wrench while both remain visible. Natural hand and arm motion, stable faces and bodies, no extra people, no duplicated limbs, no cuts. Static eye-level camera, deep focus, realistic industrial lighting, 1280x720, 24 fps, 5 seconds."
+}

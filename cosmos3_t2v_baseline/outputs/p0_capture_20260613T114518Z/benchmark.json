@@ -1,0 +1,50 @@
+{
+  "all": {
+    "OmniInference.generate_batch": [
+      61.12915587425232
+    ],
+    "OmniMoTModel.cfg_combine": [
+      0.00031302399933338167
+    ],
+    "OmniMoTModel.cond_forward": [
+      14.38661962890625
+    ],
+    "OmniMoTModel.decode": [
+      18.313934803009033
+    ],
+    "OmniMoTModel.encode": [
+      1.4895663261413574
+    ],
+    "OmniMoTModel.generate_samples_from_batch": [
+      34.366844177246094
+    ],
+    "OmniMoTModel.postprocess": [
+      0.22629189491271973
+    ],
+    "OmniMoTModel.prepare": [
+      6.44938671875
+    ],
+    "OmniMoTModel.scheduler": [
+      0.020917440533638
+    ],
+    "OmniMoTModel.transfer": [
+      1.8293824195861816
+    ],
+    "OmniMoTModel.uncond_forward": [
+      13.49557080078125
+    ]
+  },
+  "average": {
+    "OmniInference.generate_batch": 61.12915587425232,
+    "OmniMoTModel.cfg_combine": 0.00031302399933338167,
+    "OmniMoTModel.cond_forward": 14.38661962890625,
+    "OmniMoTModel.decode": 18.313934803009033,
+    "OmniMoTModel.encode": 1.4895663261413574,
+    "OmniMoTModel.generate_samples_from_batch": 34.366844177246094,
+    "OmniMoTModel.postprocess": 0.22629189491271973,
+    "OmniMoTModel.prepare": 6.44938671875,
+    "OmniMoTModel.scheduler": 0.020917440533638,
+    "OmniMoTModel.transfer": 1.8293824195861816,
+    "OmniMoTModel.uncond_forward": 13.49557080078125
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "cfg_combine": {
+    "average_seconds": 0.00011246400326490403,
+    "count": 2,
+    "total_seconds": 0.00022492800652980805
+  },
+  "cond_forward": {
+    "average_seconds": 6.62428759765625,
+    "count": 2,
+    "total_seconds": 13.2485751953125
+  },
+  "prepare": {
+    "average_seconds": 5.9636376953125,
+    "count": 1,
+    "total_seconds": 5.9636376953125
+  },
+  "scheduler": {
+    "average_seconds": 0.0008811360001564026,
+    "count": 2,
+    "total_seconds": 0.0017622720003128052
+  },
+  "uncond_forward": {
+    "average_seconds": 6.305755126953125,
+    "count": 2,
+    "total_seconds": 12.61151025390625
+  }
+}

@@ -1,0 +1,11 @@
+╭─ Unrecognized options ───────────────────────────────────────────────────────╮
+│ Unrecognized options: --num-steps=4, --guidance=6.0, --shift=3.0             │
+│ ──────────────────────────────────────────────────────────────────────────── │
+│ Available subcommands: edge-transfer-overrides, none,                        │
+│ blur-transfer-overrides, none, transfer-overrides, none, transfer-overrides, │
+│ none, transfer-overrides, none                                               │
+│ ──────────────────────────────────────────────────────────────────────────── │
+│ For full helptext, run                                                       │
+│ /root/autodl-tmp/cosmos-framework/cosmos_framework/scripts/inference.py      │
+│ --help                                                                       │
+╰──────────────────────────────────────────────────────────────────────────────╯

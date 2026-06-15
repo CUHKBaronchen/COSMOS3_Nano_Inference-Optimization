@@ -1,0 +1,30 @@
+[06-13 13:13:23|job=|INFO|cosmos_framework/inference/common/init.py:127:_init_log_files] Console log saved to /root/autodl-tmp/cosmos3_t2v_baseline/outputs/smoke_20260613T051321Z/console.log
+[06-13 13:13:23|job=|INFO|cosmos_framework/inference/common/init.py:128:_init_log_files] Debug log saved to /root/autodl-tmp/cosmos3_t2v_baseline/outputs/smoke_20260613T051321Z/debug.log
+[06-13 13:13:23|job=|INFO|cosmos_framework/scripts/inference.py:46:inference] Loaded 1 samples
+Traceback (most recent call last):
+  File "<frozen runpy>", line 203, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/root/autodl-tmp/cosmos-framework/cosmos_framework/scripts/inference.py", line 87, in <module>
+    main()
+    ~~~~^^
+  File "/root/autodl-tmp/cosmos-framework/cosmos_framework/scripts/inference.py", line 83, in main
+    inference(args)
+    ~~~~~~~~~^^^^^^
+  File "/root/autodl-tmp/cosmos-framework/cosmos_framework/scripts/inference.py", line 52, in inference
+    pipe = setup_args.get_inference_cls().create(setup_args)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/root/autodl-tmp/cosmos-framework/cosmos_framework/inference/args.py", line 1130, in get_inference_cls
+    from cosmos_framework.inference.inference import OmniInference
+  File "/root/autodl-tmp/cosmos-framework/cosmos_framework/inference/inference.py", line 53, in <module>
+    from cosmos_framework.model.vfm.omni_mot_model import OmniMoTModel
+  File "/root/autodl-tmp/cosmos-framework/cosmos_framework/model/vfm/omni_mot_model.py", line 27, in <module>
+    from cosmos_framework.configs.base.defaults.model_config import OmniMoTModelConfig
+  File "/root/autodl-tmp/cosmos-framework/cosmos_framework/configs/base/defaults/model_config.py", line 14, in <module>
+    from cosmos_framework.configs.base.defaults.vlm import VLMConfig
+  File "/root/autodl-tmp/cosmos-framework/cosmos_framework/configs/base/defaults/vlm.py", line 28, in <module>
+    from cosmos_framework.data.vfm.processors import LLMTokenizerProcessor, build_processor_lazy
+  File "/root/autodl-tmp/cosmos-framework/cosmos_framework/data/vfm/processors/__init__.py", line 13, in <module>
+    from cosmos_framework.data.vfm.processors.nemotron3densevl_processor import Nemotron3DenseVLProcessor
+  File "/root/autodl-tmp/cosmos-framework/cosmos_framework/data/vfm/processors/nemotron3densevl_processor.py", line 9, in <module>
+    from qwen_vl_utils.vision_process import smart_resize
+ModuleNotFoundError: No module named 'qwen_vl_utils'

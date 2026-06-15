@@ -1,0 +1,82 @@
+{
+  "all": {
+    "OmniInference.generate_batch": [
+      481.2374083995819
+    ],
+    "OmniMoTModel.cfg_combine": [
+      0.003028735987842083
+    ],
+    "OmniMoTModel.cond_forward": [
+      231.82707421875
+    ],
+    "OmniMoTModel.decode": [
+      18.074029445648193
+    ],
+    "OmniMoTModel.encode": [
+      1.32198166847229
+    ],
+    "OmniMoTModel.generate_samples_from_batch": [
+      458.5172321796417
+    ],
+    "OmniMoTModel.postprocess": [
+      0.22514700889587402
+    ],
+    "OmniMoTModel.prepare": [
+      5.962853515625
+    ],
+    "OmniMoTModel.scheduler": [
+      0.04692879992723465
+    ],
+    "OmniMoTModel.transfer": [
+      1.8225963115692139
+    ],
+    "OmniMoTModel.uncond_forward": [
+      220.65293017578125
+    ],
+    "[warmup] OmniInference.generate_batch": [
+      481.09381127357483
+    ],
+    "[warmup] OmniMoTModel.cfg_combine": [
+      0.003136096008121967
+    ],
+    "[warmup] OmniMoTModel.cond_forward": [
+      235.58642578125
+    ],
+    "[warmup] OmniMoTModel.decode": [
+      18.079691886901855
+    ],
+    "[warmup] OmniMoTModel.generate_samples_from_batch": [
+      463.0135586261749
+    ],
+    "[warmup] OmniMoTModel.prepare": [
+      6.33219091796875
+    ],
+    "[warmup] OmniMoTModel.scheduler": [
+      0.09401043212413787
+    ],
+    "[warmup] OmniMoTModel.uncond_forward": [
+      221.20784228515626
+    ]
+  },
+  "average": {
+    "OmniInference.generate_batch": 481.2374083995819,
+    "OmniMoTModel.cfg_combine": 0.003028735987842083,
+    "OmniMoTModel.cond_forward": 231.82707421875,
+    "OmniMoTModel.decode": 18.074029445648193,
+    "OmniMoTModel.encode": 1.32198166847229,
+    "OmniMoTModel.generate_samples_from_batch": 458.5172321796417,
+    "OmniMoTModel.postprocess": 0.22514700889587402,
+    "OmniMoTModel.prepare": 5.962853515625,
+    "OmniMoTModel.scheduler": 0.04692879992723465,
+    "OmniMoTModel.transfer": 1.8225963115692139,
+    "OmniMoTModel.uncond_forward": 220.65293017578125,
+    "[warmup] OmniInference.generate_batch": 481.09381127357483,
+    "[warmup] OmniMoTModel.cfg_combine": 0.003136096008121967,
+    "[warmup] OmniMoTModel.cond_forward": 235.58642578125,
+    "[warmup] OmniMoTModel.decode": 18.079691886901855,
+    "[warmup] OmniMoTModel.generate_samples_from_batch": 463.0135586261749,
+    "[warmup] OmniMoTModel.prepare": 6.33219091796875,
+    "[warmup] OmniMoTModel.scheduler": 0.09401043212413787,
+    "[warmup] OmniMoTModel.uncond_forward": 221.20784228515626
+  }
+}
