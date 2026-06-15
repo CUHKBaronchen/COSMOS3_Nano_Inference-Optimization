@@ -1,5 +1,6 @@
 # Cosmos3 T2V Final Delivery
 
+
 ## Primary deliverables
 
 - `COSMOS3_T2V_FINAL_REPORT.pdf`: 11-page formal technical report with embedded Chinese fonts and same-noise visual comparisons.
