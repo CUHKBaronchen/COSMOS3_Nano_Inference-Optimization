@@ -3,7 +3,6 @@
 ## Primary deliverables
 
 - `COSMOS3_T2V_FINAL_REPORT.pdf`: 11-page formal technical report with embedded Chinese fonts and same-noise visual comparisons.
-- `COSMOS3_T2V_PRESENTATION.pptx`: 16:9, 16-slide defense deck. All visible text is rendered into 1920x1080 slide images to prevent missing-font/garbled-text issues.
 - `COSMOS3_T2V_FINAL_REPORT.md`: searchable source summary.
 - `EVIDENCE_INDEX.md`: absolute-path evidence index.
 - `SHA256SUMS.txt`: integrity checksums.
